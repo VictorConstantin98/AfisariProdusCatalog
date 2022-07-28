@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\bin\Debug\net6.0\AfisariProdusCatalog.exe
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\bin\Debug\net6.0\AfisariProdusCatalog.deps.json
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\bin\Debug\net6.0\AfisariProdusCatalog.runtimeconfig.json
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\bin\Debug\net6.0\AfisariProdusCatalog.dll
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\bin\Debug\net6.0\ref\AfisariProdusCatalog.dll
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\bin\Debug\net6.0\AfisariProdusCatalog.pdb
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\obj\Debug\net6.0\AfisariProdusCatalog.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\obj\Debug\net6.0\AfisariProdusCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\obj\Debug\net6.0\AfisariProdusCatalog.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\obj\Debug\net6.0\AfisariProdusCatalog.AssemblyInfo.cs
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\obj\Debug\net6.0\AfisariProdusCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\obj\Debug\net6.0\AfisariProdusCatalog.dll
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\obj\Debug\net6.0\ref\AfisariProdusCatalog.dll
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\obj\Debug\net6.0\AfisariProdusCatalog.pdb
+C:\Users\Costi\source\repos\AfisariProdusCatalog\AfisariProdusCatalog\obj\Debug\net6.0\AfisariProdusCatalog.genruntimeconfig.cache
